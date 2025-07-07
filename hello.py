@@ -12,3 +12,6 @@ def testrun2():
 
 testrun
 testrun2
+
+Print("bad code")
+
